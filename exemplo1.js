@@ -15,6 +15,6 @@ if (naoEhMaiorDeIdade) {
 // MAIOR QUE ( > )
 // MENOR QUE ( < )
 // MAIOR OU IGUAL A ( >= )
-// MENOR OU IGUAL A ( >= )
+// MENOR OU IGUAL A ( <= )
 // IGUAL A ( == )
 // DIFERENTE DE ( != )
